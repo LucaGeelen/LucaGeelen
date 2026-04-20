@@ -26,14 +26,14 @@ Cloud / BaaS: Firebase Firestore
 
 #### 🌐 Networking
 
-**CCNA-level knowledge**
-TCP/IP, UDP, subnetting, routing & switching fundamentals, DNS, DHCP, HTTP/HTTPS, NAT, VLANs, VPN basics
+CCNA-level knowledge
+- TCP/IP, UDP, subnetting, routing & switching fundamentals, DNS, DHCP, HTTP/HTTPS, NAT, VLANs, VPN basics
 
-**CCNP-level exposure**
-OSPF (single-area & multi-area), EIGRP, BGP basics
+CCNP-level exposure
+- OSPF (single-area & multi-area), EIGRP, BGP basics
 
-**General networking concepts**
-Network troubleshooting, packet flow understanding
+General networking concepts
+- Network troubleshooting, packet flow understanding
 
 #### 🧰 Tools & Dev Environment
 
