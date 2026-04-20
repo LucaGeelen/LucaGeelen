@@ -19,7 +19,9 @@ Node.js, Java (Spring Boot), Python (Django, Flask), PHP
 #### 🗄️ Databases
 
 SQL: MySQL, PostgreSQL, SQLite
+
 NoSQL: MongoDB
+
 Cloud / BaaS: Firebase Firestore
 
 #### 🌐 Networking
